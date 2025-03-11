@@ -36,4 +36,4 @@ This project reads student data from a Google Sheets spreadsheet, calculates eac
     java -jar target/students-grade-app.jar
     ```
 
-Please make sure you have your own API credentials set up before attempting to run the application. Without the correct credentials, the API will not function. ❗
+Please make sure you have your own API credentials set up before attempting to run the application. Without the correct credentials, won't work. ❗
